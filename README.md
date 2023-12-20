@@ -8,8 +8,8 @@
 - Build amazing👍 professional and responsive websites.<br>
 - Advanced responsive design using media queries & Many More.<br>
 <br>
-#Desktop Screen <br>
-home page<br>
+# Desktop Screen <br>
+- Home page<br>
 ![home page for pc](https://github.com/Rahul02M/Cara-online-shopping/assets/133855195/31fab2f8-4f81-4f3a-b291-0a1e13d579b3)
 <br>
 
@@ -20,7 +20,7 @@ home page<br>
  <br>
 ![login](https://github.com/Rahul02M/Cara-online-shopping/assets/133855195/48b3363d-dcb6-4d18-800f-45a2bf79e856)
 <br>
- #Phone Screen <br>
+ # Phone Screen <br>
  
 ![phone](https://github.com/Rahul02M/Cara-online-shopping/assets/133855195/db2a8975-73ce-4445-a508-f3fc1ed959dd) 
 <br>
