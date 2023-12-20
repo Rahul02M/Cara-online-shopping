@@ -1,9 +1,9 @@
-#This Responsive Ecommerce🧑‍💻Website Using HTML CSS & JavaScript.<br>
-#Modern CSS, including flexbox and CSS Grid for layout<br>
-#Multipage Ecommerce Website Project with Signin & Singup page.<br>
-#Use common components and layout patterns for professional 🌐website design and development.<br>
-#Build amazing👍 professional and responsive websites.<br>
-#Advanced responsive design using media queries & Many More.<br>
+- This Responsive Ecommerce🧑‍💻Website Using HTML CSS & JavaScript.<br>
+-Modern CSS, including flexbox and CSS Grid for layout<br>
+-Multipage Ecommerce Website Project with Signin & Singup page.<br>
+-Use common components and layout patterns for professional 🌐website design and development.<br>
+-Build amazing👍 professional and responsive websites.<br>
+-Advanced responsive design using media queries & Many More.<br>
 #Desktop Screen <br>
 home page<br>
 ![home page for pc](https://github.com/Rahul02M/Cara-online-shopping/assets/133855195/31fab2f8-4f81-4f3a-b291-0a1e13d579b3)
