@@ -1,7 +1,8 @@
 # Cara-online-shopping(Ecommerce Website)
 
+1. Introduction
 
-- This Responsive Ecommerce🧑‍💻Website Using HTML CSS & JavaScript.<br>
+ - This is a sample 🛒e-commerce website built using HTML, CSS, and JavaScript. The website is designed to showcase the   various features of an e-commerce website, including product listings, shopping carts, and login pages.
 - Modern CSS, including flexbox and CSS Grid for layout.<br>
 - Multipage Ecommerce Website Project with Signin & Singup page.<br>
 - Use common components and layout patterns for professional 🌐website design and development.<br>
